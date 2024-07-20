@@ -1,0 +1,14 @@
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\bin\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\bin\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.deps.json
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\bin\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.runtimeconfig.json
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\bin\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\bin\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.AssemblyInfoInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.AssemblyInfo.cs
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\refint\C Sharp HOL Part 1 - LAB 1 - Tasks.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\C Sharp HOL Part 1 - LAB 1 - Tasks.genruntimeconfig.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 1 - Tasks\C Sharp HOL Part 1 - LAB 1 - Tasks\obj\Debug\net8.0\ref\C Sharp HOL Part 1 - LAB 1 - Tasks.dll

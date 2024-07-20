@@ -1,0 +1,7 @@
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\bin\Debug\C Sharp Assign 2 - Lab 3 - Q1.exe.config
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\bin\Debug\C Sharp Assign 2 - Lab 3 - Q1.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\bin\Debug\C Sharp Assign 2 - Lab 3 - Q1.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\obj\Debug\C Sharp Assign 2 - Lab 3 - Q1.csproj.AssemblyReference.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\obj\Debug\C Sharp Assign 2 - Lab 3 - Q1.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\obj\Debug\C Sharp Assign 2 - Lab 3 - Q1.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 3 - Q1\C Sharp Assign 2 - Lab 3 - Q1\obj\Debug\C Sharp Assign 2 - Lab 3 - Q1.pdb

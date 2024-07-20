@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC456FD-8624-4B3F-9087-6CB9433453F4}|ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.csproj|c:\\users\\aniket.singh1\\onedrive - gep\\desktop\\assignments\\consoleapp1c sharp assign 2 - lab 4 - delegate\\consoleapp1c sharp assign 2 - lab 4 - delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC456FD-8624-4B3F-9087-6CB9433453F4}|ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.csproj|solutionrelative:consoleapp1c sharp assign 2 - lab 4 - delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC456FD-8624-4B3F-9087-6CB9433453F4}|ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.csproj|C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\consoleapp1c sharp assign 2 - lab 4 - delegate\\arithmeticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC456FD-8624-4B3F-9087-6CB9433453F4}|ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.csproj|solutionrelative:consoleapp1c sharp assign 2 - lab 4 - delegate\\arithmeticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArithmeticOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ArithmeticOperation.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ArithmeticOperation.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ArithmeticOperation.cs",
+              "RelativeToolTip": "ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ArithmeticOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:04:09.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:03:39.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

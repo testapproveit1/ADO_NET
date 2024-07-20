@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp Assign 2 - LAB 2  - Q1 - Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D6EB78-535B-4785-ACD6-0A69C8255801}|C Sharp Assign 2 - LAB 2  - Q1 - Product\\C Sharp Assign 2 - LAB 2  - Q1 - Product.csproj|c:\\users\\aniket.singh1\\onedrive - gep\\desktop\\assignments\\c sharp assign 2 - lab 2  - q1 - product\\c sharp assign 2 - lab 2  - q1 - product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D6EB78-535B-4785-ACD6-0A69C8255801}|C Sharp Assign 2 - LAB 2  - Q1 - Product\\C Sharp Assign 2 - LAB 2  - Q1 - Product.csproj|solutionrelative:c sharp assign 2 - lab 2  - q1 - product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp Assign 2 - LAB 2  - Q1 - Product\\C Sharp Assign 2 - LAB 2  - Q1 - Product\\Program.cs",
+              "RelativeDocumentMoniker": "C Sharp Assign 2 - LAB 2  - Q1 - Product\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp Assign 2 - LAB 2  - Q1 - Product\\C Sharp Assign 2 - LAB 2  - Q1 - Product\\Program.cs",
+              "RelativeToolTip": "C Sharp Assign 2 - LAB 2  - Q1 - Product\\Program.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAqwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:47:09.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\bin\Debug\net8.0\Asmt2Lab1.exe
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\bin\Debug\net8.0\Asmt2Lab1.deps.json
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\bin\Debug\net8.0\Asmt2Lab1.runtimeconfig.json
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\bin\Debug\net8.0\Asmt2Lab1.dll
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\bin\Debug\net8.0\Asmt2Lab1.pdb
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.AssemblyInfoInputs.cache
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.AssemblyInfo.cs
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.dll
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\refint\Asmt2Lab1.dll
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.pdb
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\Asmt2Lab1.genruntimeconfig.cache
+C:\Users\Suyogya.Shrivastava1\OneDrive - GEP\Documents\Training\DotNet\Demos\ADO.Net\Assignment\Asmt2Lab1\Asmt2Lab1\obj\Debug\net8.0\ref\Asmt2Lab1.dll

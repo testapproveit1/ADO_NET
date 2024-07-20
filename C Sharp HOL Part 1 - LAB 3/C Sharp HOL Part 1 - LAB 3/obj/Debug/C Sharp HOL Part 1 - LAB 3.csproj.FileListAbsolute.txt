@@ -1,0 +1,7 @@
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\bin\Debug\C Sharp HOL Part 1 - LAB 3.exe.config
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\bin\Debug\C Sharp HOL Part 1 - LAB 3.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\bin\Debug\C Sharp HOL Part 1 - LAB 3.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\obj\Debug\C Sharp HOL Part 1 - LAB 3.csproj.AssemblyReference.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\obj\Debug\C Sharp HOL Part 1 - LAB 3.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\obj\Debug\C Sharp HOL Part 1 - LAB 3.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp HOL Part 1 - LAB 3\C Sharp HOL Part 1 - LAB 3\obj\Debug\C Sharp HOL Part 1 - LAB 3.pdb

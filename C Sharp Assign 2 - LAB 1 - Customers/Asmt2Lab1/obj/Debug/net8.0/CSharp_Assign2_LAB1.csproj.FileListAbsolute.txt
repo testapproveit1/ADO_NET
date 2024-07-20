@@ -1,0 +1,28 @@
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.exe
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.deps.json
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.runtimeconfig.json
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.pdb
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.AssemblyInfoInputs.cache
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.AssemblyInfo.cs
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\refint\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.pdb
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.genruntimeconfig.cache
+C:\Users\Aniket.Singh1\Downloads\assign 1\assign\CSharpAssign2Lab1\Asmt2Lab1\obj\Debug\net8.0\ref\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.deps.json
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.runtimeconfig.json
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\bin\Debug\net8.0\CSharp_Assign2_LAB1.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.AssemblyInfoInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.AssemblyInfo.cs
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\refint\CSharp_Assign2_LAB1.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\CSharp_Assign2_LAB1.genruntimeconfig.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - LAB 1\Asmt2Lab1\obj\Debug\net8.0\ref\CSharp_Assign2_LAB1.dll

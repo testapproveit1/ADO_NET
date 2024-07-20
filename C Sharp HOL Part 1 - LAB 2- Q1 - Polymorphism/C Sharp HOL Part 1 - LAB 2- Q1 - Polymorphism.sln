@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism", "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj", "{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB4767A9-30D2-4622-97EF-4F6933CF2BFB}
+	EndGlobalSection
+EndGlobal

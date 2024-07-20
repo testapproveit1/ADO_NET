@@ -1,0 +1,10 @@
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\bin\Debug\EmployeeMgmtApp.exe.config
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\bin\Debug\EmployeeMgmtApp.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\bin\Debug\EmployeeMgmtApp.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\bin\Debug\EmployeeClass_Main.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\bin\Debug\EmployeeClass_Main.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\obj\Debug\EmployeeMgmtApp.csproj.AssemblyReference.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\obj\Debug\EmployeeMgmtApp.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\obj\Debug\Employee.8CEB389E.Up2Date
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\obj\Debug\EmployeeMgmtApp.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeMgmtApp\EmployeeMgmtApp\obj\Debug\EmployeeMgmtApp.pdb

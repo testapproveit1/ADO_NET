@@ -1,0 +1,7 @@
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\bin\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.exe.config
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\bin\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\bin\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\obj\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.csproj.AssemblyReference.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\obj\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\obj\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.exe
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate\obj\Debug\ConsoleApp1C Sharp Assign 2 - Lab 4 - Delegate.pdb

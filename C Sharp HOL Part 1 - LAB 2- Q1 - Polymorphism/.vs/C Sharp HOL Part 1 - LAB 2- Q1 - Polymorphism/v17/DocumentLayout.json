@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|c:\\users\\aniket.singh1\\onedrive - gep\\desktop\\assignments\\c sharp hol part 1 - lab 2- q1 - polymorphism\\c sharp hol part 1 - lab 2- q1 - polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|solutionrelative:c sharp hol part 1 - lab 2- q1 - polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|c:\\users\\aniket.singh1\\onedrive - gep\\desktop\\assignments\\c sharp hol part 1 - lab 2- q1 - polymorphism\\c sharp hol part 1 - lab 2- q1 - polymorphism\\currentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|solutionrelative:c sharp hol part 1 - lab 2- q1 - polymorphism\\currentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|c:\\users\\aniket.singh1\\onedrive - gep\\desktop\\assignments\\c sharp hol part 1 - lab 2- q1 - polymorphism\\c sharp hol part 1 - lab 2- q1 - polymorphism\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|solutionrelative:c sharp hol part 1 - lab 2- q1 - polymorphism\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|c:\\users\\aniket.singh1\\onedrive - gep\\desktop\\assignments\\c sharp hol part 1 - lab 2- q1 - polymorphism\\c sharp hol part 1 - lab 2- q1 - polymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D360C-78BF-4B8D-BD8C-30B451F78E99}|C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism.csproj|solutionrelative:c sharp hol part 1 - lab 2- q1 - polymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\CurrentEmployee.cs",
+              "RelativeDocumentMoniker": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\CurrentEmployee.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\CurrentEmployee.cs",
+              "RelativeToolTip": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\CurrentEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:30:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\PermanentEmployee.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\PermanentEmployee.cs",
+              "RelativeToolTip": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\PermanentEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:30:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Employee.cs",
+              "RelativeDocumentMoniker": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Employee.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Employee.cs",
+              "RelativeToolTip": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:29:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket.Singh1\\OneDrive - GEP\\Desktop\\Assignments\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Program.cs",
+              "RelativeToolTip": "C Sharp HOL Part 1 - LAB 2- Q1 - Polymorphism\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAArwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:27:15.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

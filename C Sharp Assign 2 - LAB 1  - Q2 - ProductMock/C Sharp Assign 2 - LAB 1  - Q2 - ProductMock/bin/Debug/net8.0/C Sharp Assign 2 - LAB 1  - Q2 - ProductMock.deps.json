@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C Sharp Assign 2 - LAB 1  - Q2 - ProductMock/1.0.0": {
+        "runtime": {
+          "C Sharp Assign 2 - LAB 1  - Q2 - ProductMock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C Sharp Assign 2 - LAB 1  - Q2 - ProductMock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeClass_Main\EmployeeClass_Main\bin\Debug\EmployeeClass_Main.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeClass_Main\EmployeeClass_Main\bin\Debug\EmployeeClass_Main.pdb
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeClass_Main\EmployeeClass_Main\obj\Debug\EmployeeClass_Main.csproj.AssemblyReference.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeClass_Main\EmployeeClass_Main\obj\Debug\EmployeeClass_Main.csproj.CoreCompileInputs.cache
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeClass_Main\EmployeeClass_Main\obj\Debug\EmployeeClass_Main.dll
+C:\Users\Aniket.Singh1\OneDrive - GEP\Desktop\Assignments\C Sharp Assign 2 - Lab 2 - Q3 - EmployeeDLL\EmployeeClass_Main\EmployeeClass_Main\obj\Debug\EmployeeClass_Main.pdb
